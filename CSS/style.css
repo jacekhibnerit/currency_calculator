@@ -1,8 +1,9 @@
 .body {
     max-width: 1000px;
     margin: 20px auto;
+    background-image: url("../images/dollar1200.png");
 }
 
 .header {
-    color:rgb(13, 145, 101);
+    color:goldenrod;
 }
